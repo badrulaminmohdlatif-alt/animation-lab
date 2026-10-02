@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore rendered output from Git, except the committed final video.
+out/*
+!out/video.mp4
